@@ -1,3 +1,3 @@
 # C
 
-This directory contains my first year project in C. All the information needed is available in it ->
+This directory contains my first year project in C. All the information needed is available in it -> Projet_C -> code -> ReadMe
